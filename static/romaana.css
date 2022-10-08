@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(220, 242, 249);
+    
+    
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(69, 71, 124);
+}
+h3{
+    text-align: center;
+    font-weight: 700;
+    
+}
+img {  
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px; 
+  width: 200px; 
+ 
+}  
+.email{
+    text-align: center;
+}
