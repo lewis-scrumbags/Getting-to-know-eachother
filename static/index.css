@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+div.list_center {
+    text-align: center;
+}
+
+ul.team_names {
+    display: inline-block;
+    text-align: left;
+  }
